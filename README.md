@@ -36,7 +36,7 @@ After download and unzip this project, you can run run_test.m to see the result 
 
 # For other RMDS
 
-If you want to run other example (in data/rmds1-3), you can run main.m. Before run, make sure the imageFile path at the beginning, which is suited for your own computer after download and unzip this project.
+If you want to run other example in data file (like rmds1-3.tif), you can run main.m. Before run, make sure the imageFile path at the beginning, which is suited for your own computer after download and unzip this project.
 
 # Requirements
 
