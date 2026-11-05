@@ -20,9 +20,14 @@ This repostory implements a two-stage detection framework:
 
    - The RMDS detection part is mainly based on the YOLO26x, which is a open source code that can be found from https://github.com/ultralytics/ultralytics.
 
+# Dataset
+
+Our dataset has been made public on the Zenodo website. For more details, please refer to the link: https://zenodo.org/records/23943222
+
 # Requirements
 
 You can use the requirements.txt to configure the environment necessary for RMDS detection part.
+
 ## Software
 
 The code was developed and tested with:
